@@ -1,0 +1,8 @@
+public class Imovel {
+
+  String matricula;
+  String nome;
+  int mesesAtrasos;
+  float imposto;
+  float valorImovel;
+}
